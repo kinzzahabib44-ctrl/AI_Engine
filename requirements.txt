@@ -1,9 +1,0 @@
-pandas
-PyPDF2
-pdf2image
-pytesseract
-Pillow
-docx2pdf
-python-pptx
-reportlab
-fpdf
